@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PurrFact</string>
+    <string name="splash_screen_with_loader">splash screen with loader</string>
+</resources>
